@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.green{
+	width: 800px;
+    height: 500px;
+    background: #8CB27C ;
+    position: static;
+}
+.cancha{
+    width: 725px;
+    height: 425px;
+    border: 2px solid white;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+.primerarco{
+    width: 100px;
+    height: 200px;
+    border: 2px solid white;
+    position: absolute;
+    top: 100px;    
+}
+.primerarco img{
+    position: absolute;
+    right: 0px;
+}
+.segundoarco{
+    width: 100px;
+    height: 200px;
+    border: 2px solid white;
+    position: absolute;
+    top: 100px;
+    right: 0px;
+}
+.medio{
+    width: 200px;
+    height: 200px;
+    border: 2px solid white;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    position: relative;
+    top: 100px;
+    left: 270px;
+}
+.bola2{
+	top: 50px;
+    left: 400px;
+    position: absolute;
+}
+.bola3{
+	top: 275px;
+    right: 105px;
+    position: absolute;
+}
